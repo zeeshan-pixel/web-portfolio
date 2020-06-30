@@ -30,6 +30,7 @@ p{
 section{
     height: 500px;
     padding-bottom: 150px;
+    margin-bottom: 150px;
 }
 .link-button{
     text-decoration: none;
